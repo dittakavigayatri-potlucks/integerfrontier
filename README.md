@@ -8,8 +8,8 @@ Constructs institutionally realistic portfolios by formulating a Mixed-Integer Q
 miqp_portfolio/
 ├── miqp_optimizer.py      # Core: MIQP formulation, MVO/1N benchmarks, metrics
 ├── efficient_frontier.py  # Frontier tracing, cardinality & sector cap sensitivity
-├── outputs/               # CSVs, plots (auto-generated)
-├── data/                  # Historical returns (plug in live data)
+├── outputs/               # CSVs, plots
+├── data/                  # Historical returns
 └── requirements.txt
 ```
 
